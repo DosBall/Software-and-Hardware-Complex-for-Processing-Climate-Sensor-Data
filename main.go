@@ -103,7 +103,7 @@ func handleRequests() {
 	http.HandleFunc("/sensors", getSensorsHandler)
 	http.HandleFunc("/sensors/list", getSensorsListHandler)
 	http.HandleFunc("/sensors/update", updateSensorsHandler)
-	http.ListenAndServe(":8083", nil)
+	http.ListenAndServe("0.0.0.0:8080", nil) // 0.0.0.0:8080
 }
 
 func writeIntoFile(str string) {
@@ -122,3 +122,5 @@ func writeIntoFile(str string) {
 func main() {
 	handleRequests()
 }
+
+//sensors-list.txt
