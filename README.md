@@ -10,3 +10,6 @@ Software and Hardware Complex for Processing Climate Sensor Data
 файл .ino - скетч-код для платы ардуино.
 
 Онлайн модель аппаратной сборки и начальный скетч-код на платформе tinkercad: https://www.tinkercad.com/things/ketjWcIihep-proekt-umnoe-rastenie/editel
+
+SHCPCSD.aia - сборка bluetooth приложения на платформе MIT APP Inventor 2
+
