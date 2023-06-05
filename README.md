@@ -8,3 +8,5 @@ Software and Hardware Complex for Processing Climate Sensor Data
 "main.go" и "go.mod" - код моего сервера (на GO). Сервер загрузил на Yandex Cloud, на виртуальную машину. Сервер взял в аренду до конца лета 2023.
 
 файл .ino - скетч-код для платы ардуино.
+
+Онлайн модель аппаратной сборки и начальный скетч-код на платформе tinkercad: https://www.tinkercad.com/things/ketjWcIihep-proekt-umnoe-rastenie/editel
